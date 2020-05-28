@@ -2,19 +2,15 @@
   photo: felipe-asenjo.jpg
   info: Associate professor
   email: felipe.asenjo@uai.cl
-  number_educ: 3
+  number_educ: 1
   education1: PhD in Physics, Universidad de Chile
-  education2: Postdoc, University of Umea, Sweden (2011)
-  education3: Postdoc, University of Texas at Austin (2011-2013)
   
-- name: Jianfeng (Jacky) Ge
-  photo: Jacky.jpg
-  info: Postdoc, started Oct 2019
-  email: ge@Physics.LeidenUniv.nl
-  number_educ: 3
-  education1: Postdoc with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
-  education2: Ph.D. with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
-  education3: B.S. East China University of Science and Technology
+- name: Francisco Rojas
+  photo: francisco-rojas.jpg
+  info: Assistant professor
+  email: francisco.rojasf@uai.cl
+  number_educ: 1
+  education1: PhD in Physics, University of Florida
 
 - name: Koen M Bastiaans
   photo: Koen.jpg
