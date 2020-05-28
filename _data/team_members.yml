@@ -19,69 +19,57 @@
   number_educ: 1
   education1: PhD in Physics, University of Nice Sophia Antipolis
 
-- name: Damianos Chatzopoulos
-  photo: Damianos.jpg
-  info: PhD Student, started December 2017
-  email: chatzopoulos@Physics.LeidenUniv.nl
-  number_educ: 2
-  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
-  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
-  education3:
-
-- name: Willem Tromp
-  photo: website_pic_willem.jpg
-  info: PhD Student, started September 2018
-  email: WTromp@physics.leidenuniv.nl
+- name: Paula Mellado
+  photo: paula-mellado.jpg
+  info: Associate professor
+  email: paula.mellado@uai.cl
   number_educ: 1
-  education1: Master Leiden University with Felix Baumberger, Milan Allan
-  education2:
-  education3:
-  education4:
+  education1: PhD in Physics, Johns Hopkins University
 
-- name: Tjerk Benschop
-  photo: tjeruk.jpg
-  info: PhD Student, started November 2018
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: Master Leiden University with Milan Allan
-  education2: Casimir PhD grant
-  education3:
-  education4:
-
-- name: Kees van Oosten
-  photo: DSC_1032.JPG
-  info: FFine mechanical engineer (also associated with the FMD)
-  email: Oosten@fmd.physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse instrumentmakers School
-  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
-
-- name: Freek Groenewoud
-  photo: Freek.jpg
-  info: Fine mechanical engineer (also associated with the FMD)
-  email: Groenewoud@physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse Instrumentmaker School
-  education2: Mechanical Engineer , Hogeschool  Delft
-  education3:
-  education4:
-
-- name: Hugo van Bohemen
-  photo: hugo.jpg
-  info: Fine mechanical engineer (also associated with the FMD)
-  email: h.s.m.van.bohemen@physics.leidenuniv.nl
+- name: Andrés Gomberoff
+  photo: andres-gomberoff.jpg
+  info: Associate professor
+  email: andres.gomberoff@uai.cl
   number_educ: 1
-  education1: Leidse Instrumentmakers School
-  education2:
-  education3:
-  education4:
+  education1: PhD in Physics, Universidad de Chile
 
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
+- name: Andrés Concha
+  photo: andres-concha.jpg
+  info: Associate professor
+  email: andres.concha@uai.cl
+  number_educ: 1
+  education1: PhD in Physics, Johns Hopkins University
+
+- name: Andrés Jordán
+  photo: andres-jordan.jpg
+  info: Full professor
+  email: andres.jordan@uai.cl
+  number_educ: 1
+  education1: PhD in Physics, Rutgers University
+
+- name: Rafael Brahm
+  photo: rafael-brahm.jpg
+  info: Assistant Professor
+  email: rafael.brahm@uai.cl
+  number_educ: 1
+  education1: PhD in Astrophysics, Pontificia Universidad Católica de Chile
+
+#- name: Hugo van Bohemen
+#  photo: hugo.jpg
+#  info: Fine mechanical engineer (also associated with the FMD)
+#  email: h.s.m.van.bohemen@physics.leidenuniv.nl
+#  number_educ: 1
+#  education1: Leidse Instrumentmakers School
+#  education2:
+#  education3:
+#  education4:
+
+#- name: "This could be you !"
+#  photo: rock.jpg
+#  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+#  email: milan.allan@gmail.com
+#  number_educ: 0
+#  education1:
+#  education2:
+#  education3:
+#  education4:
