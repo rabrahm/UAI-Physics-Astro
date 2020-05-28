@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "UAI Physics + Astro - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Physics and Astronomy group at Universidad Adolfo Ibañez."
 sitemap: false
 permalink: /
 ---
