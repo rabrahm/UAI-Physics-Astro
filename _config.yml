@@ -10,7 +10,7 @@ title: UAI Physics + Astro group
 email: rbrahm@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Physics ans Astronomy research group of the Universidad Adolfo Ibañez, Chile
-baseurl: "UAI-Physics-Astro/"
+baseurl: ""
 url: ""
 
 include:
