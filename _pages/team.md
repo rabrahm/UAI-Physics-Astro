@@ -78,7 +78,7 @@ permalink: /team/
 
 
 
-## Lecturers
+<!--  ## Lecturers
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -130,9 +130,10 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+-->
 
 
-<!-- ## Alumni
+## Lecturers
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
@@ -165,7 +166,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
+<!--## Former visitors, BSc/ MSc students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
