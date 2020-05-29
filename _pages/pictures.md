@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Pictures"
+title: "UAI Physics+Astro - Pictures"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "Physics + Astro Group at UAI"
 permalink: /pictures/
 ---
 
