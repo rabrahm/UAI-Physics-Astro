@@ -26,13 +26,15 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>[{{ member.name }}]({{ member.webpage }}){:target="_blank"}</h4>
-  <i>{{ member.info }},&nbsp;{{ member.department }}<br>email: <{{ member.email }}></i><br>
+  <i>{{ member.info }},&nbsp;{{ member.department }}<br>email: <{{ member.email }}><br>{% if member.number_educ == 1 %}
+  {{ member.education1 }}</i>
+  {% endif %} 
+    
   <script type="text/javascript">
-     document.write("<n uers=\"{{ member.email }}\" bapyvpx=\"_tnd\056chfu(['_genpxRirag', 'yvaxGb', 'rznvy', guvf\056uers]);\"><v pynff=\"sn sn-rairybcr\"><\057v><fcna pynff=\"yvax-grkg\">{{ member.email }}<\057fcna><\057n>".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
+    document.write("<n uers=\"{{ member.email }}\" bapyvpx=\"_tnd\056chfu(['_genpxRirag', 'yvaxGb', 'rznvy', guvf\056uers]);\"><v pynff=\"sn sn-rairybcr\"><\057v><fcna pynff=\"yvax-grkg\">{{ member.email }}<\057fcna><\057n>".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
   </script>
-  {% if member.number_educ == 1 %}
-  <i>{{ member.education1 }}</i>
-  {% endif %}
+  
+  
   
   <ul style="overflow: hidden">
 
