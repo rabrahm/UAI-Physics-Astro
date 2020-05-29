@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "UAI {hysics+Astro - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "UAI Physics+Astro: Team members"
 sitemap: false
 permalink: /team/
 ---
@@ -30,7 +30,7 @@ permalink: /team/
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
+  <i> {{ member.education1 }} </i>
   {% endif %}
 
   {% if member.number_educ == 2 %}
