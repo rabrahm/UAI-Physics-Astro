@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: UAI Physics + Astro - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Physics + Astro Group at UAI"
 sitemap: false
 permalink: /publications/
 ---
