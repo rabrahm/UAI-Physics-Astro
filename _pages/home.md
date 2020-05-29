@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a research group at the [Faculty of Engineering and Sciences](https://ingenieria.uai.cl/) and the [Faculty of Liberal Arts](https://artesliberales.uai.cl/) of [Universidad Adolfo Ibáñez](https://www.uai.cl/). We  carry our fundamental research in various areas of Physics and Astrophysics, such as experimental and theoretical condensed matter, experimental and theoretical high energy physics, planetary sciences.
+We are a research group at the [Faculty of Engineering and Sciences](https://ingenieria.uai.cl/) and the [Faculty of Liberal Arts](https://artesliberales.uai.cl/) of [Universidad Adolfo Ibáñez](https://www.uai.cl/). We  carry out fundamental research in various areas of Physics and Astrophysics, such as experimental and theoretical condensed matter, experimental and theoretical high energy physics, planetary sciences.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -65,7 +65,7 @@ We are a research group at the [Faculty of Engineering and Sciences](https://ing
 To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
 -->
 
-We are located at Universidad Adolfo Ibañez, in both Campus Peñalolén (Santiago) and Campus Viña del Mar.
+We are located at Universidad Adolfo Ibañez,  both in the Peñalolén (Santiago) and Viña del Mar campuses.
 
 <!-- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 -->
