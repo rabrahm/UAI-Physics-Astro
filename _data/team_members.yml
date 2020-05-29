@@ -7,6 +7,7 @@
   mailto: nvygb:sryvcr.nfrawb@hnv.py
   number_educ: 1
   education1: PhD in Physics, Universidad de Chile
+  area1: physics
   
 - name: Francisco Rojas
   department: FIC
@@ -17,6 +18,7 @@
   mailto: nvygb:senapvfpb.ebwnfs@hnv.py
   number_educ: 1
   education1: PhD in Physics, University of Florida
+  area1: High energy theory
 
 - name: Sergio Rica
   department: FIC
@@ -27,6 +29,7 @@
   mailto: nvygb:fretvb.evpn@hnv.py
   number_educ: 1
   education1: PhD in Physics, University of Nice Sophia Antipolis
+  area1: Fluid dynamics
 
 - name: Paula Mellado
   department: FIC
@@ -37,6 +40,7 @@
   mailto: nvygb:cnhyn.zryynqb@hnv.py
   number_educ: 1
   education1: PhD in Physics, Johns Hopkins University
+  area1: Strongly correlated materials
 
 - name: Andrés Gomberoff
   department: FIC
@@ -47,6 +51,7 @@
   mailto: nvygb:naqerf.tbzorebss@hnv.py
   number_educ: 1
   education1: PhD in Physics, Universidad de Chile
+  area1: Gravitation
 
 - name: Andrés Concha
   department: FIC
@@ -57,6 +62,7 @@
   mailto: nvygb:naqerf.pbapun@hnv.py
   number_educ: 1
   education1: PhD in Physics, Johns Hopkins University
+  area1: Experimental physics
 
 - name: Andrés Jordán
   department: FIC
@@ -67,6 +73,7 @@
   mailto: znvygb:naqerf.wbeqna@hnv.py
   number_educ: 1
   education1: PhD in Physics, Rutgers University
+  area1: Exoplanetss,Atmospheres, small telescope instrumentation
 
 - name: Rafael Brahm
   department: FIC
@@ -77,6 +84,7 @@
   mailto: nvygb:nensnry.oenuz@hnv.py
   number_educ: 1
   education1: PhD in Astrophysics, Pontificia Universidad Católica de Chile
+  area1: Exoplanets
 
 
 #- name: Hugo van Bohemen
