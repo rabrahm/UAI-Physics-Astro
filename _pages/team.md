@@ -1,7 +1,7 @@
 ---
-title: "UAI Physics+Astro - Team"
+title: "UAI Physics + Astro - Team"
 layout: gridlay
-excerpt: "UAI Physics+Astro: Team members"
+excerpt: "Physics + Astro Group at UAI"
 sitemap: false
 permalink: /team/
 ---
