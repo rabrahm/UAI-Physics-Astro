@@ -31,7 +31,7 @@ We are a research group at the [Faculty of Engineering and Sciences](https://ing
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/hatpi.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/paula-research.png" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/logos.jpg" alt="Slide 4" />
