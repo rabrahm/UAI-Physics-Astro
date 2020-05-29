@@ -20,7 +20,7 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>[{{ member.name }}]({{ member.webpage }}){:target="_blank"}</h4>
   <i>{{ member.info }},&nbsp;{{ member.department }}<br>
-  {{ member.education1 }}<br><br>{{member.area1}}</i> 
+  {{ member.education1 }}<br>{{member.area1}}</i> 
     <!--
   <script type="text/javascript">
     document.write("<n uers=\"{{ member.mailto }}\" bapyvpx=\"_tnd\056chfu(['_genpxRirag', 'yvaxGb', 'rznvy', guvf\056uers]);\"><v pynff=\"sn sn-rairybcr\"><\057v><fcna pynff=\"yvax-grkg\">{{ member.email }}<\057fcna><\057n>".replace(/[a-zA-Z]/g, function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
@@ -56,7 +56,7 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br><{{ member.education1 }}></i>
+  <i>{{ member.info }}<br>{{ member.education1 }}</i>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -86,7 +86,7 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br><{{ member.education1 }}></i>
+  <i>{{ member.info }}<br>{{ member.education1 }}</i>
 
 </div>
 
