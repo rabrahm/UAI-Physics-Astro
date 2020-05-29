@@ -3,7 +3,7 @@ title: "UAI Physics + Astro - Home"
 layout: homelay
 excerpt: "Physics and Astronomy group at Universidad Adolfo Ibañez."
 sitemap: false
-permalink: /team/
+permalink: /
 ---
 
 We are a research group at the [Faculty of Engineering and Sciences](https://ingenieria.uai.cl/) and the [Faculty of Liberal Arts](https://artesliberales.uai.cl/) of [Universidad Adolfo Ibáñez](https://www.uai.cl/). We  carry our fundamental research in various areas of Physics and Astrophysics, such as experimental and theoretical condensed matter, experimental and theoretical high energy physics, planetary sciences.
