@@ -15,10 +15,12 @@ We are a research group at the [Faculty of Engineering and Sciences](https://ing
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
+        <!--
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
+        -->
     </ol>
 
     <!-- Items -->
@@ -33,7 +35,7 @@ We are a research group at the [Faculty of Engineering and Sciences](https://ing
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/paula-research.png" alt="Slide 3" />
         </div>
-        <div class="item">
+        <!-- <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/logos.jpg" alt="Slide 4" />
         </div>
         <div class="item">
@@ -45,6 +47,7 @@ We are a research group at the [Faculty of Engineering and Sciences](https://ing
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 7" />
         </div>
+        -->
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
