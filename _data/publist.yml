@@ -8,6 +8,16 @@
   highlight: 1
   news2:
   
+- title: "Resonant interaction between dispersive gravitational waves and scalar massive particles"
+  image: 
+  description: The Klein-Gordon equation is solved in the curved background spacetime created by a dispersive gravitational wave. Unlike solutions of perturbed Einstein equations in vacuum, dispersive gravitational waves do not travel exactly at the speed of light. As a consequence, the gravitational wave can resonantly exchange energy with scalar massive particles.
+  authors: FA Asenjo & SM Mahajan
+  link:
+    url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.063010
+    display: PhysRevD.101.063010
+  highlight: 1
+  news2:
+  
 - title: "Multi-Atom Quasiparticle Scattering Interference for Superconductor Energy-Gap Symmetry Determination"
   image: TBG_ARPES.png
   description:
