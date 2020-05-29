@@ -1,7 +1,7 @@
 ---
-title: "News"
+title: "UAI Physics+Astro - News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Physics + Astro Group at UAI"
 sitemap: false
 permalink: /allnews.html
 ---
