@@ -26,10 +26,11 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>[{{ member.name }}]({{ member.webpage }}){:target="_blank"}</h4>
-  <i>{{ member.info }},&nbsp;{{ member.department }}<br>email: <{{ member.email }}></i>
+  <i>{{ member.info }},&nbsp;{{ member.department }}<br>email: <{{ member.email }}></i><br>
   {% if member.number_educ == 1 %}
-  <i> {{ member.education1 }} </i>
+  </i>{{ member.education1 }} </i>
   {% endif %}
+  
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 2 %}
