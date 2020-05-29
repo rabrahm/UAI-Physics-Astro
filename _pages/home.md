@@ -1,7 +1,7 @@
 ---
 title: "UAI Physics + Astro - Home"
 layout: homelay
-excerpt: "Physics and Astronomy group at Universidad Adolfo Ibañez."
+excerpt: "Physics + Astro Group at UAI."
 sitemap: false
 permalink: /
 ---
