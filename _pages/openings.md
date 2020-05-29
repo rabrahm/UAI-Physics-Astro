@@ -8,7 +8,8 @@ permalink: /vacancies/
 
 # Open positions
 
-Cooming Soon...
+Cooming Soon.
+
 <!--
 
 We are always looking for new group members with passion, talent, and grit!
