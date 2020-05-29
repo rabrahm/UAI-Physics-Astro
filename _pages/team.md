@@ -1,5 +1,5 @@
 ---
-title: "UAI {hysics+Astro - Team"
+title: "UAI Physics+Astro - Team"
 layout: gridlay
 excerpt: "UAI Physics+Astro: Team members"
 sitemap: false
@@ -28,7 +28,7 @@ permalink: /team/
   <h4>[{{ member.name }}]({{ member.webpage }}){:target="_blank"}</h4>
   <i>{{ member.info }},&nbsp;{{ member.department }}<br>email: <{{ member.email }}></i><br>
   {% if member.number_educ == 1 %}
-  </i>{{ member.education1 }} </i>
+  <i>{{ member.education1 }}</i>
   {% endif %}
   
   <ul style="overflow: hidden">
@@ -36,27 +36,6 @@ permalink: /team/
   {% if member.number_educ == 2 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
   {% endif %}
 
   </ul>
