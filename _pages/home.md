@@ -58,8 +58,9 @@ We are a research group at the [Faculty of Engineering and Sciences](https://ing
 
 
 
-
+<!--
 To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
+-->
 
 We are located at Universidad Adolfo Ibañez, in both Campus Peñalolén (Santiago) and Campus Viña del Mar.
 
