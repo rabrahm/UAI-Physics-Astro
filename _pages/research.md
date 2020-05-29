@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Research"
+title: "UAI Physics + Astro - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Physics + Astro Group at UAI -- Research"
 sitemap: false
 permalink: /research/
 ---
