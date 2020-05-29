@@ -8,7 +8,7 @@ permalink: /vacancies/
 
 # Open positions
 <br>
-Cooming Soon.
+Coming Soon.
 
 <!--
 
