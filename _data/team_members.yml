@@ -1,4 +1,6 @@
 - name: Felipe A. Asenjo
+  department: FIC
+  webpage: https://ingenieria.uai.cl/profesor/felipe-asenjo/
   photo: felipe-asenjo.jpg
   info: Associate professor
   email: felipe.asenjo@uai.cl
@@ -6,6 +8,8 @@
   education1: PhD in Physics, Universidad de Chile
   
 - name: Francisco Rojas
+  department: FIC
+  webpage: https://ingenieria.uai.cl/profesor/francisco-rojas/
   photo: francisco-rojas.jpg
   info: Assistant professor
   email: francisco.rojasf@uai.cl
@@ -13,6 +17,8 @@
   education1: PhD in Physics, University of Florida
 
 - name: Sergio Rica
+  department: FIC
+  webpage: http://www.sergiorica.com/Site/Home.html
   photo: sergio-rica.jpg
   info: Full professor
   email: sergio.rica@uai.cl
@@ -20,6 +26,8 @@
   education1: PhD in Physics, University of Nice Sophia Antipolis
 
 - name: Paula Mellado
+  department: FIC
+  webpage: https://sites.google.com/site/pmelladouai/home
   photo: paula-mellado.jpg
   info: Associate professor
   email: paula.mellado@uai.cl
@@ -27,6 +35,8 @@
   education1: PhD in Physics, Johns Hopkins University
 
 - name: Andrés Gomberoff
+  department: FIC
+  webpage: https://ingenieria.uai.cl/profesor/andres-gomberoff/
   photo: andres-gomberoff.jpg
   info: Associate professor
   email: andres.gomberoff@uai.cl
@@ -34,6 +44,8 @@
   education1: PhD in Physics, Universidad de Chile
 
 - name: Andrés Concha
+  department: FIC
+  webpage: https://sites.google.com/site/andresconchaphysicsresearch/
   photo: andres-concha.jpg
   info: Associate professor
   email: andres.concha@uai.cl
@@ -41,6 +53,8 @@
   education1: PhD in Physics, Johns Hopkins University
 
 - name: Andrés Jordán
+  department: FIC
+  webpage: http://andres-jordan.io/
   photo: andres-jordan.jpg
   info: Full professor
   email: andres.jordan@uai.cl
@@ -48,6 +62,8 @@
   education1: PhD in Physics, Rutgers University
 
 - name: Rafael Brahm
+  department: FIC
+  webpage: www.astro.puc.cl/~rbrahm/
   photo: rafael-brahm.jpg
   info: Assistant Professor
   email: rafael.brahm@uai.cl
