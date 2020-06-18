@@ -1,3 +1,13 @@
+- title: "Magnetoelectric effect in dipolar clusters"
+  image: dummy.jpg
+  description: Study about the combination of the anisotropy of magnetic interactions and the point symmetry of finite solids in the study of dipolar clusters as new basic units for multiferroics metamaterials. It is found that the clusters carry spin current and that they manifest the magnetoelectric effect.
+  authors: P Mellado, A Concha, S Rica
+  link:
+    url: https://arxiv.org/abs/2006.03753
+    display: Preprint arXiv:2006.03753
+  highlight: 1
+  news2:
+
 - title: "TOI-677b: A Warm Jupiter (P = 11.2 days) on an Eccentric Orbit Transiting a Late F-type Star"
   image: toi-677.jpg
   description: Discovery of a warm transiting gas giant using the data from the TESS mission and a number of spectrrographs in Chile. Part of a key project of our group to characterize gas giants with long (P>10 d) periods.
