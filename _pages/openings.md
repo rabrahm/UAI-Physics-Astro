@@ -19,9 +19,9 @@ The official call from [ANID](https://www.anid.cl/concursos/) is expected to occ
 
 Related URLs: [AAS Job Register Ad](https://jobregister.aas.org/ad/a30cb4a6)
 
-Application Deadline: Thursday, September 10, 2020
-Selection Deadline: Wednesday, September 30, 2020
-Current Status of Position: Accepting Applicants
+Application Deadline: Thursday, September 10, 2020<br>
+Selection Deadline: Wednesday, September 30, 2020<br>
+Current Status of Position: Accepting Applicants<br>
 
 <!--
 ### Applications for PhD and Postdoc positions
