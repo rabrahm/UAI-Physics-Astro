@@ -19,6 +19,12 @@ The Astrophysics group at UAI is currently composed of Profs. Rafael Brahm, Jorg
 
 The official call from ANID (https://www.anid.cl/concursos/) is expected to occur during August. The fellowships will have a duration of up to 3 years, and the funds cover the researcher’s salary, health insurance, operational expenses, flight tickets, and relocation expenses. Researchers are eligible if they have received their PhD on or after Jan 1, 2017 (or Jan 1, 2016, for women who recently had a child), and before the application deadline. We ask researchers interested in applying to the FONDECYT postdoctoral fellowship with the sponsorship of the UAI Astrophysics group to submit the following documents to Prof. Rafael Brahm <rafael.brahm@uai.cl>: i) CV, ii) 2 page research summary (past and future plans, including the proposed name of the UAI faculty that would act as sponsor), and iii) a list of three researchers willing to write letters of recommendation upon request. These documents will be used for an initial selection of the candidates that will then need to use the official ANID platform to submit the FONDECYT fellowship application sponsored by UAI. We encourage researchers interested in applying to this call to contact the UAI professor working on the topic of interest to identify collaboration projects that will strengthen the eventual proposal.
 
+Related URLs: [AAS Job Register Ad](https://jobregister.aas.org/ad/a30cb4a6)
+
+Application Deadline: Thursday, September 10, 2020
+Selection Deadline: Wednesday, September 30, 2020
+Current Status of Position: Accepting Applicants
+
 <!--
 ### Applications for PhD and Postdoc positions
 If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
