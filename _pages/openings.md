@@ -6,10 +6,8 @@ sitemap: false
 permalink: /vacancies/
 ---
 
-# Open positions
+# Current open positions
 <br>
-
-## Current open positions
 
 ### Postdoctoral fellowships in Exoplanet and Planetary Sciences and Numerical Astrophysics at Universidad Adolfo Ibáñez, Chile
 
